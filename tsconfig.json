@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "downlevelIteration": true,
+      "target": "es2015",
+      "module": "esnext",
+      "jsx": "react",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "lib": ["dom", "es2017"], // Add es2017 here
+      "moduleResolution": "node"
+    }
+  }
